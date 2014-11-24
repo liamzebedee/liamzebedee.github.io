@@ -1,0 +1,26 @@
+<html><head>
+<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+
+<style>
+h1 {
+	color: #fff;
+	font: 100 92px/1 "lato";
+	text-transform: uppercase;
+	vertical-align: baseline;
+}
+h1 em {
+	font-weight: 300;
+}
+body {
+	background: #0ac5f4;
+}
+
+.name {}
+</style></head>
+
+<body>
+	<h1>Home of <em class="name">Liam Zebedee</em></h1>
+</body>
+
+</html>
